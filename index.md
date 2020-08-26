@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+ <p align="center">
+  <b>S  H  A  N  M  U  K    -    D  E  S  I  G  N S</b>
+</p>
 
-You can use the [editor on GitHub](https://github.com/shanmukmichael/Graphic-Designs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## 8.ai
 ```markdown
-Syntax highlighted code block
+<p align="center">
+  <img widht ="700" height="700" src="https://user-images.githubusercontent.com/55943851/91273104-5b3e2280-e79a-11ea-83cc-95cf3c07a626.png">
+</p>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shanmukmichael/Graphic-Designs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<p align="center">
+  <img widht ="300" height="300" src="https://user-images.githubusercontent.com/55943851/82728945-52f4c800-9d11-11ea-9f0a-061c2a225a72.png">
+</p>
+  
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p align="center">
+  <a href="https://www.google.com/search?q=Shanmuk+Michael&rlz=1C1GCEA_enIN857IN857&oq=Shanmuk+Michael&aqs=chrome..69i57j69i60l3.9741j0j8&sourceid=chrome&ie=UTF-8">S h a n m u k</a><br>
+  <br>
+    <b>Cybersecurity Keen | Android & Game Developer | Artist</b>
+  <br><br>
+  <br>
+  <a href="https://shanmukmichael.github.io/Shanmuk_Projects/">Github Projects </a>  |
+  <a href="https://www.linkedin.com/in/shanmukmichael">LinkedIn</a>  |
+  <a href="https://www.instagram.com/mr_singlle">Instagram</a>
+  <br><br>
+  
+  <br>
+   <b>shanmukmichael@gmail.com</b>
+  <br>
+  
+</p>
