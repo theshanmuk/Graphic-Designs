@@ -10,7 +10,7 @@
   
 
 <p align="center">
-  <a href="https://shanmukmichael.github.io/Graphic-Designs/">GO TO WEBSITE</a>
+ <b>|</b> <a href="https://shanmukmichael.github.io/Graphic-Designs/">GO TO WEBSITE</a> <b> |</b>
  </p>
 
 ## 8.ai
