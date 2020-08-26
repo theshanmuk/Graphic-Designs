@@ -5,13 +5,10 @@
 
 
 ## 8.ai
-```markdown
+
 <p align="center">
   <img widht ="700" height="700" src="https://user-images.githubusercontent.com/55943851/91273104-5b3e2280-e79a-11ea-83cc-95cf3c07a626.png">
 </p>
-
-```
-
 
 
 
