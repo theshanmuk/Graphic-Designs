@@ -3,14 +3,15 @@
  <p align="center">
   <b>S  H  A  N  M  U  K    -    D  E  S  I  G  N S</b>
 </p>
-
+ 
 <p align="center">
-  <img widht ="700" height="700" src="">
+  <img widht ="40" height="40" src="https://user-images.githubusercontent.com/55943851/82728945-52f4c800-9d11-11ea-9f0a-061c2a225a72.png">
 </p>
   
 
 <p align="center">
   <a href="https://shanmukmichael.github.io/Graphic-Designs/">GO TO WEBSITE</a>
+ </p>
 
 ## 8.ai
 <p align="center">
