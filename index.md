@@ -1,9 +1,10 @@
 
 <p align="center">
   <img widht ="40" height="40" src="https://user-images.githubusercontent.com/55943851/82728945-52f4c800-9d11-11ea-9f0a-061c2a225a72.png">
-</p>
-<p align="center">
-  <b>S  H  A  N  M  U  K    -    A R T W O R K S</b>
+
+
+ <p align="center">
+  <b>S  H  A  N  M  U  K  •  A  R  T  W  O  R  K  S</b>
 </p>
 
 
