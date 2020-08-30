@@ -1,7 +1,7 @@
 
 
  <p align="center">
-  <b>S  H  A  N  M  U  K    -    A  R  T  W  O  R  K  S</b>
+  <b>S  H  A  N  M  U  K  •  A  R  T  W  O  R  K  S</b>
 </p>
  
 <p align="center">
