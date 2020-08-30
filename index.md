@@ -1,14 +1,15 @@
- <p align="center">
-  <b>S  H  A  N  M  U  K    -    D  E  S  I  G  N S</b>
-</p>
 
 <p align="center">
   <img widht ="40" height="40" src="https://user-images.githubusercontent.com/55943851/82728945-52f4c800-9d11-11ea-9f0a-061c2a225a72.png">
 </p>
+<p align="center">
+  <b>S  H  A  N  M  U  K    -    D  E  S  I  G  N S</b>
+</p>
+
 
 # captain america shield.ai
 <p align="center">
-  <img widht ="350" height="350" src="https://github.com/shanmukmichael/Graphic-Designs/blob/master/captain%20america%20shield/CA_s_line.jpg">
+  <img widht ="350" height="350" src="https://raw.githubusercontent.com/shanmukmichael/Graphic-Designs/master/captain%20america%20shield/CA_s_line.jpg">
 </p>
   
 
