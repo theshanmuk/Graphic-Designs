@@ -12,19 +12,18 @@
  <b>|</b> <a href="https://shanmukmichael.github.io/Graphic-Designs/">GO TO WEBSITE</a> <b> |</b>
  </p>
 
- ## captain america shield.ai
+## captain america shield.ai
 <p align="center">
   <img widht ="350" height="350" src="https://github.com/shanmukmichael/Graphic-Designs/blob/master/captain%20america%20shield/CA_s_line.jpg">
 </p>
   
 
  
- ## fish.ai
+## fish.ai
 <p align="center">
   <img widht ="350" height="350" src="https://user-images.githubusercontent.com/55943851/91564676-9721e500-e95e-11ea-92f9-543b87f32606.jpg">
 </p>
   
-
 ## 8.ai
 <p align="center">
   <img widht ="350" height="350" src="https://user-images.githubusercontent.com/55943851/91273104-5b3e2280-e79a-11ea-83cc-95cf3c07a626.png">
